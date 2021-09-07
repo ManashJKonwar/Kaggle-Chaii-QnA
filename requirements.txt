@@ -9,3 +9,8 @@ sentencepiece==0.1.96
 
 # Tensor Based Computation Library
 torch==1.9.0
+
+# Distributed Computing
+ray==1.6.0 # Ray provides a simple, universal API for building distributed applications.
+hyperopt==0.2.5 # Distributed Asynchronous Hyperparameter Optimization
+wandb==0.12.1 # A CLI and library for interacting with the Weights and Biases API.
